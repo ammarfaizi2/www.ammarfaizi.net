@@ -1,0 +1,29 @@
+* {
+	font-family: Arial, Tahoma;
+}
+.bdg {
+	background: #e7ffbc;
+}
+.photo {
+	border-radius: 100%;
+	width: 160px;
+	height: 160px;
+}
+.ad {
+	color: blue;
+	text-decoration: none;
+}
+.ad:hover {
+	text-decoration: underline;
+}
+.biod {
+	text-align: justify;
+	word-wrap: break-word;
+	width: 400px;
+}
+.mcg {
+	border: 1px solid #000;
+	border-radius: 2%;
+	width: 500px;
+	padding: 0px 10px 50px 10px;
+}
