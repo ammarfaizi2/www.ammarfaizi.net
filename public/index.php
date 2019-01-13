@@ -45,4 +45,3 @@
 	</center>
 </body>
 </html>
-<!-- <?php print base64_encode(base64_encode("Do you want to play something? https://challange.ammarfaizi.net")); ?> -->
