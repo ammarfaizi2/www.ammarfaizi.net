@@ -1,0 +1,60 @@
+body {
+	font-family: Arial;
+	background-color: #772953;
+}
+
+.main-cg {
+	text-align: center;
+}
+
+#my-profile {
+	background-color: #fff;
+	width: 640px;
+	padding: 5px 0 30px 0;
+	margin: 40px auto 0 auto;
+	border-radius: 5px;
+	border: 3px solid #491330;
+}
+
+#pub-key {
+	border: 1px solid #000;
+	background-color: #fff;
+	width: 600px;
+	padding: 2px 20px 0 20px;
+	overflow-x: scroll;
+	margin: 10px auto 100px auto;
+	border: 3px solid #491330;
+}
+
+#my-bio {
+	text-align: left;
+	width: 600px;
+	margin: auto;
+}
+
+#my-photo {
+	border-radius: 100%;
+	width: 200px;
+}
+
+#my-contact {
+	width: 520px;
+	margin: auto;
+	text-align: left;
+}
+
+.ad {
+	text-decoration: none;
+	color: blue;
+}
+
+.ad:hover {
+	text-decoration: underline;
+}
+
+#my-caveat {
+	border: 1px solid #000;
+	margin: auto;
+	margin-top: 50px;
+	padding: 0 5px 0 5px;
+}
