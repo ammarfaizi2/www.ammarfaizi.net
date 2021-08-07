@@ -23,6 +23,10 @@ $list = [
 	"Slamet Sugandi" => [
 		"desc" => "Fullstack Web Programmer, love Laravel",
 		"link" => "https://github.com/virusphp"
+	],
+	"Louvian Lyndal" => [
+		"desc" => "C/C++ Programmer, Web Programmer",
+		"link" => "https://github.com/louvian"
 	]
 ];
 
