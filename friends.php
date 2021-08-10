@@ -7,7 +7,7 @@ $list = [
 	],
 	"Fernanda Ma'rouf" => [
 		"desc" => "C/C++, x86-64 programmer, love HPC",
-		"link" => "https://github.com/majitenshi"
+		"link" => "https://github.com/Akiekano"
 	],
 	"Komori Kuzuyu" => [
 		"desc" => "Security Expert, C/C++ programmer (Rest in peace, 2021)",
